@@ -63,23 +63,23 @@ navs:
 
   -
     href: /spring-boot.html
-    label: Spring-Boot
+    label: Linux
 
   -
     href: /spring-cloud.html
-    label: Spring-Cloud
+    label: Pentest
 
   -
     href: /archives.html
     label: Archives
 
   -
-    href: /link.html
-    label: Link
+    #href: /link.html
+    #label: Link
 
   -
-    href: /about.html
-    label: About
+    #href: /about.html
+    #label: About
 
 
 # labels. my blog key words
