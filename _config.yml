@@ -95,24 +95,15 @@ labels:
 
   -
     href: /arch.html
-    name: 架构
+    name: Linux
     
   -
     href: /jvm.html
-    name: Jvm
+    name: Coding
 
   -
     href: /fastdfs.html
-    name: FastDFS
-
-  -
-    href: /mongodb.html
-    name: MongoDB
-
-  -
-    href: /docker.html
-    name: Docker
-
+    name: Pentest
   -
     href: /open-source.html
     name: Code   
