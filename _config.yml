@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  Mingyuan
-subtitle: 技术精进与享受生活
+title:  努力努力再努力
+subtitle: 享受生活与技术精进
 name: 努力努力再努力
-email: 
+email: timdavid@vip.qq.com
 description: 本站是銘缘的技术分享博客。内容涵盖生活故事、Java、Pen test、二进制分析、Linux操作系统等相关的研究与知识分享。
 keywords: BetterMan,Java,PenTest,Linux,生活故事,Coder,IT技术博客,Java,Python
 encoding: "utf-8"
