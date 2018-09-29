@@ -17,9 +17,9 @@ favicon: favicon.png
 
 repository: Yumingyuan/Yumingyuan.github.io
 github_url: https://github.com/Yumingyuan
-cnblog_url: http://www.cnblogs.com/Yumingyuan
+cnblog_url: 
 url: http://yumingyuan.github.io
-enforce_ssl: ityouknow.com
+enforce_ssl: yumingyuan.github.io
 
 ## Gem
 plugins:
